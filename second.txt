@@ -1,1 +1,2 @@
 we are learning git and this is awesome!!!
+now we are learnig to diff commant
